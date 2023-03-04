@@ -1,0 +1,6 @@
+physics,300,100,0
+calculus,300,100,0
+english,400,100,0
+urdu,200,100,0
+itoc,400,100,0
+islamyat,400,100,0
